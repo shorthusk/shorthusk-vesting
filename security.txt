@@ -1,0 +1,6 @@
+name: "$SHORTHUSK Vesting Program",
+project_url: "https://github.com/shorthusk/shorthusk-vesting",
+contacts: "link:https://x.com/shorthusk",
+policy: "https://raw.githubusercontent.com/shorthusk/shorthusk-vesting/refs/heads/master/security-policy.md",
+preferred_languages: "en",
+auditors: "None"
